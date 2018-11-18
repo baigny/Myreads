@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 node_modules
 yarn.lock
 .DS_Store
+=======
+npm modules
+>>>>>>> 49cbabaad72774e6b9489e362ad9e7e05a65f793
